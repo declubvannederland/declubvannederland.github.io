@@ -117,10 +117,10 @@ th, td {
 #standtabel{
   height: 5%;
   left: 10%;
-  margin-left:530px;
+  margin-left:55%;
 
   position:absolute;
-  width: 10%;
+  width: 15%;
   margin-top: 10px;
   background:#FFFFFF
 }
@@ -151,7 +151,9 @@ th, td {
 #topscorers{
   height: 5%;
   left: 10%;
-  margin-left:530px;
+  margin-left:55%;
+  margin-top: 90%;
+  margin-bottom: 10%;
   position:absolute;
   width: 10%;
   margin-top: 0px;
@@ -169,5 +171,5 @@ th, td {
 }
 
 #erelijsttitel{
-  
+
 }
